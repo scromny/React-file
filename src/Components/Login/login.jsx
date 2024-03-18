@@ -1,7 +1,7 @@
 import "./login.scss"
 import React from "react";
-import Image from "../img/image 1.svg";
-import Google from "../img/iconfinder_Google_1298745 1.svg";
+import Image from "../img/Img.svg";
+import Google from "../img/GoogleIcon.svg";
 
 function Login() {
     return (
